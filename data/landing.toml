@@ -1,0 +1,33 @@
+[hero]
+enable = true
+weight = 10
+template = "hero"
+title = "Plum's Gamedev Guide"
+subtitle = "A guide to making games from scratch in C++"
+
+[hero.ctaButton]
+icon = "rocket_launch"
+btnText = "Get Started"
+url = "docs/getting-started"
+
+
+[featureGrid]
+enable = false
+weight = 15
+template = "feature grid"
+title = "How does it work?"
+subtitle = "It just does"
+
+
+[imageText]
+enable = false
+weight = 30
+template = "image text"
+
+
+[imageCompare]
+enable = false
+weight = 40
+template = "image compare"
+
+

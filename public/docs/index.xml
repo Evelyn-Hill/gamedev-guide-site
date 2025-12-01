@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Nov 2025 20:27:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/docs/getting-started/</link>
+      <pubDate>Sun, 30 Nov 2025 20:27:46 -0500</pubDate>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
+      <description>&lt;p&gt;This course relies on a few key pieces of software. Some are crossplatform, like Git and VSCode and others are platform specific. Here I&amp;rsquo;ll walk&#xA;you through the installation process for them.&lt;/p&gt;&#xA;&lt;h3 id=&#34;common-software&#34;&gt;Common Software &lt;a href=&#34;#common-software&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;VSCode&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Git is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Version_control&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;version control system&lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;. We use version control to track changes to our code and collaborate with others.&#xA;We&amp;rsquo;ll go into git more in depth at a later date, for now just know that it&amp;rsquo;s a tool we&amp;rsquo;ll use from the command line to share code with each other.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
